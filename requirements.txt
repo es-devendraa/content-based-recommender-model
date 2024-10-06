@@ -1,10 +1,8 @@
-Flask
-pandas
-numpy
-requests
-scikit-learn
-gunicorn
-scikit-learn
-nltk
-pickle
+Flask==3.0.3
+pandas==2.2.3
+numpy==2.1.2
+requests==2.32.3
+scikit-learn==1.5.2
+gunicorn==23.0.0
+nltk==3.7  # Specify the version you need
 gdown==4.6.0
