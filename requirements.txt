@@ -1,0 +1,11 @@
+Flask
+pandas
+numpy
+requests
+scikit-learn
+gunicorn
+ast
+scikit-learn
+nltk
+pickle
+gdown==4.6.0
